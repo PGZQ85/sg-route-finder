@@ -1,0 +1,12 @@
+{
+  "name": "sg-route-finder",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Five fastest and shortest bus/MRT routes in Singapore from busrouter.sg data and live data.gov.sg feeds",
+  "scripts": {
+    "start": "node server.js",
+    "fetch-data": "node scripts/fetch-data.mjs",
+    "test": "node scripts/test-planner.js"
+  },
+  "engines": { "node": ">=18" }
+}

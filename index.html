@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>SG Route Finder</title>
+  <meta name="description" content="Five fastest and five shortest bus/MRT routes between two places in Singapore, using busrouter.sg data and live data.gov.sg feeds.">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div id="map" aria-label="Map of Singapore"></div>
+
+  <aside id="panel">
+    <header class="panel-head">
+      <div>
+        <h1>SG Route Finder</h1>
+        <p class="status" id="status">Loading data…</p>
+      </div>
+      <button id="collapse" class="icon-btn" aria-label="Collapse panel" title="Collapse">▾</button>
+    </header>
+
+    <div class="panel-body">
+      <form id="trip" class="trip" autocomplete="off">
+        <div class="place">
+          <span class="dot dot-a" aria-hidden="true"></span>
+          <input id="from" placeholder="From (place, postal code, stop)" value="Compass One">
+          <ul class="suggest" id="from-suggest"></ul>
+        </div>
+        <div class="place">
+          <span class="dot dot-b" aria-hidden="true"></span>
+          <input id="to" placeholder="To" value="HarbourFront">
+          <ul class="suggest" id="to-suggest"></ul>
+        </div>
+        <div class="trip-actions">
+          <button type="button" id="swap" class="btn" title="Swap origin and destination">⇅ Swap</button>
+          <button type="submit" id="go" class="btn primary">Find routes</button>
+        </div>
+      </form>
+
+      <section id="conditions" class="conditions"></section>
+
+      <div class="tabs" role="tablist">
+        <button role="tab" data-mode="fastest" class="btn on">5 fastest</button>
+        <button role="tab" data-mode="shortest" class="btn">5 shortest</button>
+      </div>
+
+      <section id="results" class="results"><p class="hint">Routes appear here.</p></section>
+
+      <p class="foot muted">
+        Data: bus stops, services &amp; route shapes from busrouter.sg · live bus arrivals from arrivelah (LTA DataMall) ·
+        weather, PSI &amp; taxi availability from data.gov.sg · geocoding &amp; map tiles from OneMap.
+        Times are estimates.
+      </p>
+    </div>
+  </aside>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+  <script src="planner.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

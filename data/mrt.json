@@ -1,0 +1,1093 @@
+{
+ "lines": [
+  {
+   "id": "NEL",
+   "name": "North East Line",
+   "color": "#9900aa",
+   "stations": [
+    "HarbourFront",
+    "Outram Park",
+    "Chinatown",
+    "Clarke Quay",
+    "Dhoby Ghaut",
+    "Little India",
+    "Farrer Park",
+    "Boon Keng",
+    "Potong Pasir",
+    "Woodleigh",
+    "Serangoon",
+    "Kovan",
+    "Hougang",
+    "Buangkok",
+    "Sengkang",
+    "Punggol",
+    "Punggol Coast"
+   ]
+  },
+  {
+   "id": "CCL",
+   "name": "Circle Line",
+   "color": "#fa9e0d",
+   "stations": [
+    "Dhoby Ghaut",
+    "Bras Basah",
+    "Esplanade",
+    "Promenade",
+    "Nicoll Highway",
+    "Stadium",
+    "Mountbatten",
+    "Dakota",
+    "Paya Lebar",
+    "MacPherson",
+    "Tai Seng",
+    "Bartley",
+    "Serangoon",
+    "Lorong Chuan",
+    "Bishan",
+    "Marymount",
+    "Caldecott",
+    "Botanic Gardens",
+    "Farrer Road",
+    "Holland Village",
+    "Buona Vista",
+    "one-north",
+    "Kent Ridge",
+    "Haw Par Villa",
+    "Pasir Panjang",
+    "Labrador Park",
+    "Telok Blangah",
+    "HarbourFront"
+   ]
+  },
+  {
+   "id": "CCLe",
+   "name": "Circle Line (Marina Bay branch)",
+   "color": "#fa9e0d",
+   "stations": [
+    "Promenade",
+    "Bayfront",
+    "Marina Bay"
+   ]
+  },
+  {
+   "id": "NSL",
+   "name": "North South Line",
+   "color": "#d42e12",
+   "stations": [
+    "Jurong East",
+    "Bukit Batok",
+    "Bukit Gombak",
+    "Choa Chu Kang",
+    "Yew Tee",
+    "Kranji",
+    "Marsiling",
+    "Woodlands",
+    "Admiralty",
+    "Sembawang",
+    "Canberra",
+    "Yishun",
+    "Khatib",
+    "Yio Chu Kang",
+    "Ang Mo Kio",
+    "Bishan",
+    "Braddell",
+    "Toa Payoh",
+    "Novena",
+    "Newton",
+    "Orchard",
+    "Somerset",
+    "Dhoby Ghaut",
+    "City Hall",
+    "Raffles Place",
+    "Marina Bay",
+    "Marina South Pier"
+   ]
+  },
+  {
+   "id": "EWL",
+   "name": "East West Line",
+   "color": "#009645",
+   "stations": [
+    "Pasir Ris",
+    "Tampines",
+    "Simei",
+    "Tanah Merah",
+    "Bedok",
+    "Kembangan",
+    "Eunos",
+    "Paya Lebar",
+    "Aljunied",
+    "Kallang",
+    "Lavender",
+    "Bugis",
+    "City Hall",
+    "Raffles Place",
+    "Tanjong Pagar",
+    "Outram Park",
+    "Tiong Bahru",
+    "Redhill",
+    "Queenstown",
+    "Commonwealth",
+    "Buona Vista",
+    "Dover",
+    "Clementi",
+    "Jurong East",
+    "Chinese Garden",
+    "Lakeside",
+    "Boon Lay",
+    "Pioneer",
+    "Joo Koon",
+    "Gul Circle",
+    "Tuas Crescent",
+    "Tuas West Road",
+    "Tuas Link"
+   ]
+  },
+  {
+   "id": "CGL",
+   "name": "East West Line (Changi branch)",
+   "color": "#009645",
+   "stations": [
+    "Tanah Merah",
+    "Expo",
+    "Changi Airport"
+   ]
+  },
+  {
+   "id": "DTL",
+   "name": "Downtown Line",
+   "color": "#005ec4",
+   "stations": [
+    "Bukit Panjang",
+    "Cashew",
+    "Hillview",
+    "Hume",
+    "Beauty World",
+    "King Albert Park",
+    "Sixth Avenue",
+    "Tan Kah Kee",
+    "Botanic Gardens",
+    "Stevens",
+    "Newton",
+    "Little India",
+    "Rochor",
+    "Bugis",
+    "Promenade",
+    "Bayfront",
+    "Downtown",
+    "Telok Ayer",
+    "Chinatown",
+    "Fort Canning",
+    "Bencoolen",
+    "Jalan Besar",
+    "Bendemeer",
+    "Geylang Bahru",
+    "Mattar",
+    "MacPherson",
+    "Ubi",
+    "Kaki Bukit",
+    "Bedok North",
+    "Bedok Reservoir",
+    "Tampines West",
+    "Tampines",
+    "Tampines East",
+    "Upper Changi",
+    "Expo"
+   ]
+  },
+  {
+   "id": "TEL",
+   "name": "Thomson-East Coast Line",
+   "color": "#9d5b25",
+   "stations": [
+    "Woodlands North",
+    "Woodlands",
+    "Woodlands South",
+    "Springleaf",
+    "Lentor",
+    "Mayflower",
+    "Bright Hill",
+    "Upper Thomson",
+    "Caldecott",
+    "Stevens",
+    "Napier",
+    "Orchard Boulevard",
+    "Orchard",
+    "Great World",
+    "Havelock",
+    "Outram Park",
+    "Maxwell",
+    "Shenton Way",
+    "Marina Bay",
+    "Gardens by the Bay",
+    "Tanjong Rhu",
+    "Katong Park",
+    "Tanjong Katong",
+    "Marine Parade",
+    "Marine Terrace",
+    "Siglap",
+    "Bayshore"
+   ]
+  }
+ ],
+ "stations": {
+  "HarbourFront": {
+   "lat": 1.265389383749022,
+   "lng": 103.8215301570942,
+   "label": "HARBOURFRONT MRT STATION (NE1 / CC29)",
+   "source": "onemap"
+  },
+  "Outram Park": {
+   "lat": 1.281405047722123,
+   "lng": 103.8391309792483,
+   "label": "OUTRAM PARK MRT STATION (EW16)",
+   "source": "onemap"
+  },
+  "Chinatown": {
+   "lat": 1.284223919190854,
+   "lng": 103.845143798953,
+   "label": "CHINATOWN MRT STATION (DT19)",
+   "source": "onemap"
+  },
+  "Clarke Quay": {
+   "lat": 1.288386024075879,
+   "lng": 103.8465552096935,
+   "label": "CLARKE QUAY MRT STATION (NE5)",
+   "source": "onemap"
+  },
+  "Dhoby Ghaut": {
+   "lat": 1.298911643626761,
+   "lng": 103.8462925069598,
+   "label": "DHOBY GHAUT MRT STATION (CC1)",
+   "source": "onemap"
+  },
+  "Little India": {
+   "lat": 1.307018267652254,
+   "lng": 103.8486609350915,
+   "label": "LITTLE INDIA MRT STATION (DT12)",
+   "source": "onemap"
+  },
+  "Farrer Park": {
+   "lat": 1.311905573257754,
+   "lng": 103.8534777165087,
+   "label": "FARRER PARK MRT STATION (NE8)",
+   "source": "onemap"
+  },
+  "Boon Keng": {
+   "lat": 1.319335709225138,
+   "lng": 103.861569454156,
+   "label": "BOON KENG MRT STATION (NE9)",
+   "source": "onemap"
+  },
+  "Potong Pasir": {
+   "lat": 1.331379490213673,
+   "lng": 103.8690556567813,
+   "label": "POTONG PASIR MRT STATION (NE10)",
+   "source": "onemap"
+  },
+  "Woodleigh": {
+   "lat": 1.339190045193896,
+   "lng": 103.8708183091496,
+   "label": "WOODLEIGH MRT STATION (NE11)",
+   "source": "onemap"
+  },
+  "Serangoon": {
+   "lat": 1.350633615265261,
+   "lng": 103.8727716604309,
+   "label": "SERANGOON MRT STATION (CC13)",
+   "source": "onemap"
+  },
+  "Kovan": {
+   "lat": 1.360179170652371,
+   "lng": 103.8850648563529,
+   "label": "KOVAN MRT STATION (NE13)",
+   "source": "onemap"
+  },
+  "Hougang": {
+   "lat": 1.371292266207984,
+   "lng": 103.8923805130286,
+   "label": "HOUGANG MRT STATION (NE14)",
+   "source": "onemap"
+  },
+  "Buangkok": {
+   "lat": 1.382870019716735,
+   "lng": 103.8931225697062,
+   "label": "BUANGKOK MRT STATION (NE15)",
+   "source": "onemap"
+  },
+  "Sengkang": {
+   "lat": 1.391694626015214,
+   "lng": 103.895484694279,
+   "label": "SENGKANG MRT STATION (NE16)",
+   "source": "onemap"
+  },
+  "Punggol": {
+   "lat": 1.404546536689935,
+   "lng": 103.9020726222284,
+   "label": "PUNGGOL MRT STATION (NE17)",
+   "source": "onemap"
+  },
+  "Punggol Coast": {
+   "lat": 1.414927333886055,
+   "lng": 103.9101663881767,
+   "label": "PUNGGOL COAST MRT STATION (NE18)",
+   "source": "onemap"
+  },
+  "Bras Basah": {
+   "lat": 1.296861686496568,
+   "lng": 103.8506673716367,
+   "label": "BRAS BASAH MRT STATION (CC2)",
+   "source": "onemap"
+  },
+  "Esplanade": {
+   "lat": 1.293657724538611,
+   "lng": 103.8550812262447,
+   "label": "ESPLANADE MRT STATION (CC3)",
+   "source": "onemap"
+  },
+  "Promenade": {
+   "lat": 1.293997986362327,
+   "lng": 103.8603500001881,
+   "label": "PROMENADE MRT STATION (CC4)",
+   "source": "onemap"
+  },
+  "Nicoll Highway": {
+   "lat": 1.299766846751384,
+   "lng": 103.8636369657193,
+   "label": "NICOLL HIGHWAY MRT STATION (CC5)",
+   "source": "onemap"
+  },
+  "Stadium": {
+   "lat": 1.302812468470708,
+   "lng": 103.8753377110883,
+   "label": "STADIUM MRT STATION (CC6)",
+   "source": "onemap"
+  },
+  "Mountbatten": {
+   "lat": 1.306201905253319,
+   "lng": 103.8825280810512,
+   "label": "MOUNTBATTEN MRT STATION (CC7)",
+   "source": "onemap"
+  },
+  "Dakota": {
+   "lat": 1.308547983881218,
+   "lng": 103.8890647183767,
+   "label": "DAKOTA MRT STATION (CC8)",
+   "source": "onemap"
+  },
+  "Paya Lebar": {
+   "lat": 1.317247385403492,
+   "lng": 103.8922607538836,
+   "label": "PAYA LEBAR MRT STATION (CC9)",
+   "source": "onemap"
+  },
+  "MacPherson": {
+   "lat": 1.326077601716667,
+   "lng": 103.8903913057249,
+   "label": "MACPHERSON MRT STATION (CC10)",
+   "source": "onemap"
+  },
+  "Tai Seng": {
+   "lat": 1.335141501392029,
+   "lng": 103.8883893001908,
+   "label": "TAI SENG MRT STATION (CC11)",
+   "source": "onemap"
+  },
+  "Bartley": {
+   "lat": 1.342501178052448,
+   "lng": 103.8801778991837,
+   "label": "BARTLEY MRT STATION (CC12)",
+   "source": "onemap"
+  },
+  "Lorong Chuan": {
+   "lat": 1.351612170745556,
+   "lng": 103.8641519386503,
+   "label": "LORONG CHUAN MRT STATION (CC14)",
+   "source": "onemap"
+  },
+  "Bishan": {
+   "lat": 1.351315801466592,
+   "lng": 103.8491402653198,
+   "label": "BISHAN MRT STATION (CC15)",
+   "source": "onemap"
+  },
+  "Marymount": {
+   "lat": 1.34870726345101,
+   "lng": 103.8394231323315,
+   "label": "MARYMOUNT MRT STATION (CC16)",
+   "source": "onemap"
+  },
+  "Caldecott": {
+   "lat": 1.337673374078292,
+   "lng": 103.8395307855756,
+   "label": "CALDECOTT MRT STATION (CC17)",
+   "source": "onemap"
+  },
+  "Botanic Gardens": {
+   "lat": 1.322113735588771,
+   "lng": 103.814984510627,
+   "label": "BOTANIC GARDENS MRT STATION (CC19)",
+   "source": "onemap"
+  },
+  "Farrer Road": {
+   "lat": 1.317439151589664,
+   "lng": 103.8073792141607,
+   "label": "FARRER ROAD MRT STATION (CC20)",
+   "source": "onemap"
+  },
+  "Holland Village": {
+   "lat": 1.312240296315966,
+   "lng": 103.796399122407,
+   "label": "HOLLAND VILLAGE MRT STATION (CC21)",
+   "source": "onemap"
+  },
+  "Buona Vista": {
+   "lat": 1.306634504050007,
+   "lng": 103.7907094044361,
+   "label": "BUONA VISTA MRT STATION (CC22)",
+   "source": "onemap"
+  },
+  "one-north": {
+   "lat": 1.299759874935558,
+   "lng": 103.7874575052496,
+   "label": "ONE-NORTH MRT STATION (CC23)",
+   "source": "onemap"
+  },
+  "Kent Ridge": {
+   "lat": 1.293533498871235,
+   "lng": 103.7845727381728,
+   "label": "KENT RIDGE MRT STATION (CC24)",
+   "source": "onemap"
+  },
+  "Haw Par Villa": {
+   "lat": 1.282571357724892,
+   "lng": 103.7817527250638,
+   "label": "HAW PAR VILLA MRT STATION (CC25)",
+   "source": "onemap"
+  },
+  "Pasir Panjang": {
+   "lat": 1.27621352233767,
+   "lng": 103.7913503132878,
+   "label": "PASIR PANJANG MRT STATION (CC26)",
+   "source": "onemap"
+  },
+  "Labrador Park": {
+   "lat": 1.27225417749656,
+   "lng": 103.8026315787653,
+   "label": "LABRADOR PARK MRT STATION (CC27)",
+   "source": "onemap"
+  },
+  "Telok Blangah": {
+   "lat": 1.270706477177624,
+   "lng": 103.8097616112185,
+   "label": "TELOK BLANGAH MRT STATION (CC28)",
+   "source": "onemap"
+  },
+  "Bayfront": {
+   "lat": 1.281873788792091,
+   "lng": 103.8590797648737,
+   "label": "BAYFRONT MRT STATION (DT16 / CC34)",
+   "source": "onemap"
+  },
+  "Marina Bay": {
+   "lat": 1.27625146423744,
+   "lng": 103.8554471562785,
+   "label": "MARINA BAY MRT STATION (CC33)",
+   "source": "onemap"
+  },
+  "Jurong East": {
+   "lat": 1.333027515439408,
+   "lng": 103.7423704876066,
+   "label": "JURONG EAST MRT STATION (EW24 / NS1)",
+   "source": "onemap"
+  },
+  "Bukit Batok": {
+   "lat": 1.349033312016372,
+   "lng": 103.7495664783088,
+   "label": "BUKIT BATOK MRT STATION (NS2)",
+   "source": "onemap"
+  },
+  "Bukit Gombak": {
+   "lat": 1.358611590941928,
+   "lng": 103.7517909107326,
+   "label": "BUKIT GOMBAK MRT STATION (NS3)",
+   "source": "onemap"
+  },
+  "Choa Chu Kang": {
+   "lat": 1.385368469921474,
+   "lng": 103.7440849094921,
+   "label": "CHOA CHU KANG MRT STATION (JS1)",
+   "source": "onemap"
+  },
+  "Yew Tee": {
+   "lat": 1.397535069362989,
+   "lng": 103.7474051502354,
+   "label": "YEW TEE MRT STATION (NS5)",
+   "source": "onemap"
+  },
+  "Kranji": {
+   "lat": 1.425086980736478,
+   "lng": 103.762137459497,
+   "label": "KRANJI MRT STATION (NS7)",
+   "source": "onemap"
+  },
+  "Marsiling": {
+   "lat": 1.432521148550268,
+   "lng": 103.7740746414026,
+   "label": "MARSILING MRT STATION (NS8)",
+   "source": "onemap"
+  },
+  "Woodlands": {
+   "lat": 1.436819629615197,
+   "lng": 103.7860667992523,
+   "label": "WOODLANDS MRT STATION (NS9)",
+   "source": "onemap"
+  },
+  "Admiralty": {
+   "lat": 1.440588561618472,
+   "lng": 103.800990519771,
+   "label": "ADMIRALTY MRT STATION (NS10)",
+   "source": "onemap"
+  },
+  "Sembawang": {
+   "lat": 1.449050821585015,
+   "lng": 103.8200461402103,
+   "label": "SEMBAWANG MRT STATION (NS11)",
+   "source": "onemap"
+  },
+  "Canberra": {
+   "lat": 1.443076640756983,
+   "lng": 103.8297025909592,
+   "label": "CANBERRA MRT STATION (NS12)",
+   "source": "onemap"
+  },
+  "Yishun": {
+   "lat": 1.42944308477332,
+   "lng": 103.8350050472459,
+   "label": "YISHUN MRT STATION (NS13)",
+   "source": "onemap"
+  },
+  "Khatib": {
+   "lat": 1.417383370095667,
+   "lng": 103.8329799082429,
+   "label": "KHATIB MRT STATION (NS14)",
+   "source": "onemap"
+  },
+  "Yio Chu Kang": {
+   "lat": 1.381755870991314,
+   "lng": 103.8449472711801,
+   "label": "YIO CHU KANG MRT STATION (NS15)",
+   "source": "onemap"
+  },
+  "Ang Mo Kio": {
+   "lat": 1.369299448453875,
+   "lng": 103.8507746329856,
+   "label": "ANG MO KIO MRT STATION (CR11)",
+   "source": "onemap"
+  },
+  "Braddell": {
+   "lat": 1.340469001027704,
+   "lng": 103.8467990831476,
+   "label": "BRADDELL MRT STATION (NS18)",
+   "source": "onemap"
+  },
+  "Toa Payoh": {
+   "lat": 1.332629280968894,
+   "lng": 103.8475021980474,
+   "label": "TOA PAYOH MRT STATION (NS19)",
+   "source": "onemap"
+  },
+  "Novena": {
+   "lat": 1.320440791201562,
+   "lng": 103.8438256187479,
+   "label": "NOVENA MRT STATION (NS20)",
+   "source": "onemap"
+  },
+  "Newton": {
+   "lat": 1.313992862645701,
+   "lng": 103.8377146130905,
+   "label": "NEWTON MRT STATION (DT11)",
+   "source": "onemap"
+  },
+  "Orchard": {
+   "lat": 1.303980136817154,
+   "lng": 103.8322452443746,
+   "label": "ORCHARD MRT STATION (NS22)",
+   "source": "onemap"
+  },
+  "Somerset": {
+   "lat": 1.300264167390052,
+   "lng": 103.8390857531233,
+   "label": "SOMERSET MRT STATION (NS23)",
+   "source": "onemap"
+  },
+  "City Hall": {
+   "lat": 1.292936722277808,
+   "lng": 103.8525855803662,
+   "label": "CITY HALL MRT STATION (EW13 / NS25)",
+   "source": "onemap"
+  },
+  "Raffles Place": {
+   "lat": 1.284125610436589,
+   "lng": 103.8514617123419,
+   "label": "RAFFLES PLACE MRT STATION (EW14 / NS26)",
+   "source": "onemap"
+  },
+  "Marina South Pier": {
+   "lat": 1.271027036120066,
+   "lng": 103.8624475157361,
+   "label": "MARINA SOUTH PIER MRT STATION (NS28)",
+   "source": "onemap"
+  },
+  "Pasir Ris": {
+   "lat": 1.373043316358061,
+   "lng": 103.9492845277626,
+   "label": "PASIR RIS MRT STATION (EW1)",
+   "source": "onemap"
+  },
+  "Tampines": {
+   "lat": 1.355150411204733,
+   "lng": 103.9430098831302,
+   "label": "TAMPINES MRT STATION (DT32)",
+   "source": "onemap"
+  },
+  "Simei": {
+   "lat": 1.343197078518295,
+   "lng": 103.9533772143779,
+   "label": "SIMEI MRT STATION (EW3)",
+   "source": "onemap"
+  },
+  "Tanah Merah": {
+   "lat": 1.327187290746738,
+   "lng": 103.9463486007975,
+   "label": "TANAH MERAH MRT STATION (EW4)",
+   "source": "onemap"
+  },
+  "Bedok": {
+   "lat": 1.323979968681596,
+   "lng": 103.9299844950654,
+   "label": "BEDOK MRT STATION (EW5)",
+   "source": "onemap"
+  },
+  "Kembangan": {
+   "lat": 1.321038133593401,
+   "lng": 103.9129479308509,
+   "label": "KEMBANGAN MRT STATION (EW6)",
+   "source": "onemap"
+  },
+  "Eunos": {
+   "lat": 1.319783549160883,
+   "lng": 103.9032258072548,
+   "label": "EUNOS MRT STATION (EW7)",
+   "source": "onemap"
+  },
+  "Aljunied": {
+   "lat": 1.316432611815716,
+   "lng": 103.8829060443844,
+   "label": "ALJUNIED MRT STATION (EW9)",
+   "source": "onemap"
+  },
+  "Kallang": {
+   "lat": 1.311488909988205,
+   "lng": 103.8713865417532,
+   "label": "KALLANG MRT STATION (EW10)",
+   "source": "onemap"
+  },
+  "Lavender": {
+   "lat": 1.307377817470643,
+   "lng": 103.8627676338875,
+   "label": "LAVENDER MRT STATION (EW11)",
+   "source": "onemap"
+  },
+  "Bugis": {
+   "lat": 1.299313503445817,
+   "lng": 103.8571259590224,
+   "label": "BUGIS MRT STATION (DT14)",
+   "source": "onemap"
+  },
+  "Tanjong Pagar": {
+   "lat": 1.276561317372466,
+   "lng": 103.8457251867589,
+   "label": "TANJONG PAGAR MRT STATION (EW15)",
+   "source": "onemap"
+  },
+  "Tiong Bahru": {
+   "lat": 1.286102536157761,
+   "lng": 103.827445112419,
+   "label": "TIONG BAHRU MRT STATION (EW17)",
+   "source": "onemap"
+  },
+  "Redhill": {
+   "lat": 1.289634534128879,
+   "lng": 103.8167409720498,
+   "label": "REDHILL MRT STATION (EW18)",
+   "source": "onemap"
+  },
+  "Queenstown": {
+   "lat": 1.294550851849307,
+   "lng": 103.8060771559821,
+   "label": "QUEENSTOWN MRT STATION (EW19)",
+   "source": "onemap"
+  },
+  "Commonwealth": {
+   "lat": 1.302501999243251,
+   "lng": 103.7982285233357,
+   "label": "COMMONWEALTH MRT STATION (EW20)",
+   "source": "onemap"
+  },
+  "Dover": {
+   "lat": 1.311405293209642,
+   "lng": 103.7786378419088,
+   "label": "DOVER MRT STATION (EW22)",
+   "source": "onemap"
+  },
+  "Clementi": {
+   "lat": 1.315116252773782,
+   "lng": 103.7651914528873,
+   "label": "CLEMENTI MRT STATION (EW23)",
+   "source": "onemap"
+  },
+  "Chinese Garden": {
+   "lat": 1.342352820814013,
+   "lng": 103.7325967383628,
+   "label": "CHINESE GARDEN MRT STATION (EW25)",
+   "source": "onemap"
+  },
+  "Lakeside": {
+   "lat": 1.344259114938191,
+   "lng": 103.7209490874561,
+   "label": "LAKESIDE MRT STATION (EW26)",
+   "source": "onemap"
+  },
+  "Boon Lay": {
+   "lat": 1.33860405469845,
+   "lng": 103.7060646227716,
+   "label": "BOON LAY MRT STATION (EW27)",
+   "source": "onemap"
+  },
+  "Pioneer": {
+   "lat": 1.337587011067095,
+   "lng": 103.6973216084733,
+   "label": "PIONEER MRT STATION (EW28)",
+   "source": "onemap"
+  },
+  "Joo Koon": {
+   "lat": 1.327717040844709,
+   "lng": 103.6783749961644,
+   "label": "JOO KOON MRT STATION (EW29)",
+   "source": "onemap"
+  },
+  "Gul Circle": {
+   "lat": 1.319470900752091,
+   "lng": 103.6605304613452,
+   "label": "GUL CIRCLE MRT STATION (EW30)",
+   "source": "onemap"
+  },
+  "Tuas Crescent": {
+   "lat": 1.321026955986843,
+   "lng": 103.6490782356262,
+   "label": "TUAS CRESCENT MRT STATION (EW31)",
+   "source": "onemap"
+  },
+  "Tuas West Road": {
+   "lat": 1.329985046531018,
+   "lng": 103.6396166487711,
+   "label": "TUAS WEST ROAD MRT STATION (EW32)",
+   "source": "onemap"
+  },
+  "Tuas Link": {
+   "lat": 1.340882424511064,
+   "lng": 103.6369914251273,
+   "label": "TUAS LINK MRT STATION (EW33)",
+   "source": "onemap"
+  },
+  "Expo": {
+   "lat": 1.334549778248175,
+   "lng": 103.9615482110178,
+   "label": "EXPO MRT STATION (CG1)",
+   "source": "onemap"
+  },
+  "Changi Airport": {
+   "lat": 1.357478974476929,
+   "lng": 103.9878835695896,
+   "label": "CHANGI AIRPORT MRT STATION (CG2)",
+   "source": "onemap"
+  },
+  "Bukit Panjang": {
+   "lat": 1.379002116410369,
+   "lng": 103.7615351149282,
+   "label": "BUKIT PANJANG MRT STATION (DT1)",
+   "source": "onemap"
+  },
+  "Cashew": {
+   "lat": 1.369815449255529,
+   "lng": 103.7644392141394,
+   "label": "CASHEW MRT STATION (DT2)",
+   "source": "onemap"
+  },
+  "Hillview": {
+   "lat": 1.362344868035584,
+   "lng": 103.7674182540068,
+   "label": "HILLVIEW MRT STATION (DT3)",
+   "source": "onemap"
+  },
+  "Hume": {
+   "lat": 1.354595323950304,
+   "lng": 103.7691188518866,
+   "label": "HUME MRT STATION (DT4)",
+   "source": "onemap"
+  },
+  "Beauty World": {
+   "lat": 1.341223175585512,
+   "lng": 103.7757942850826,
+   "label": "BEAUTY WORLD MRT STATION (DT5)",
+   "source": "onemap"
+  },
+  "King Albert Park": {
+   "lat": 1.335661612622142,
+   "lng": 103.7833991134405,
+   "label": "KING ALBERT PARK MRT STATION (DT6)",
+   "source": "onemap"
+  },
+  "Sixth Avenue": {
+   "lat": 1.330857645362268,
+   "lng": 103.7969068382873,
+   "label": "SIXTH AVENUE MRT STATION (DT7)",
+   "source": "onemap"
+  },
+  "Tan Kah Kee": {
+   "lat": 1.325556235198984,
+   "lng": 103.8077603047289,
+   "label": "TAN KAH KEE MRT STATION (DT8)",
+   "source": "onemap"
+  },
+  "Stevens": {
+   "lat": 1.320065557506253,
+   "lng": 103.8260244019237,
+   "label": "STEVENS MRT STATION (DT10)",
+   "source": "onemap"
+  },
+  "Rochor": {
+   "lat": 1.30385218527656,
+   "lng": 103.8527694288838,
+   "label": "ROCHOR MRT STATION (DT13)",
+   "source": "onemap"
+  },
+  "Downtown": {
+   "lat": 1.279446381789169,
+   "lng": 103.8528408295805,
+   "label": "DOWNTOWN MRT STATION (DT17)",
+   "source": "onemap"
+  },
+  "Telok Ayer": {
+   "lat": 1.282068947693958,
+   "lng": 103.848648781083,
+   "label": "TELOK AYER MRT STATION (DT18)",
+   "source": "onemap"
+  },
+  "Fort Canning": {
+   "lat": 1.292481948229968,
+   "lng": 103.8443313624644,
+   "label": "FORT CANNING MRT STATION (DT20)",
+   "source": "onemap"
+  },
+  "Bencoolen": {
+   "lat": 1.298918433694228,
+   "lng": 103.8503537627163,
+   "label": "BENCOOLEN MRT STATION (DT21)",
+   "source": "onemap"
+  },
+  "Jalan Besar": {
+   "lat": 1.3051713878069,
+   "lng": 103.855295713435,
+   "label": "JALAN BESAR MRT STATION (DT22)",
+   "source": "onemap"
+  },
+  "Bendemeer": {
+   "lat": 1.313672528476904,
+   "lng": 103.8629776209451,
+   "label": "BENDEMEER MRT STATION (DT23)",
+   "source": "onemap"
+  },
+  "Geylang Bahru": {
+   "lat": 1.321301102283224,
+   "lng": 103.8716226271413,
+   "label": "GEYLANG BAHRU MRT STATION (DT24)",
+   "source": "onemap"
+  },
+  "Mattar": {
+   "lat": 1.326876715013358,
+   "lng": 103.8832475095416,
+   "label": "MATTAR MRT STATION (DT25)",
+   "source": "onemap"
+  },
+  "Ubi": {
+   "lat": 1.329974259739727,
+   "lng": 103.8992266554387,
+   "label": "UBI MRT STATION (DT27)",
+   "source": "onemap"
+  },
+  "Kaki Bukit": {
+   "lat": 1.334967359954289,
+   "lng": 103.9084593380455,
+   "label": "KAKI BUKIT MRT STATION (DT28)",
+   "source": "onemap"
+  },
+  "Bedok North": {
+   "lat": 1.334742116640915,
+   "lng": 103.9179783299497,
+   "label": "BEDOK NORTH MRT STATION (DT29)",
+   "source": "onemap"
+  },
+  "Bedok Reservoir": {
+   "lat": 1.336607829551007,
+   "lng": 103.9322346232856,
+   "label": "BEDOK RESERVOIR MRT STATION (DT30)",
+   "source": "onemap"
+  },
+  "Tampines West": {
+   "lat": 1.345515305601201,
+   "lng": 103.9384369712212,
+   "label": "TAMPINES WEST MRT STATION (DT31)",
+   "source": "onemap"
+  },
+  "Tampines East": {
+   "lat": 1.356191482715451,
+   "lng": 103.9546344624998,
+   "label": "TAMPINES EAST MRT STATION (DT33)",
+   "source": "onemap"
+  },
+  "Upper Changi": {
+   "lat": 1.341739774449938,
+   "lng": 103.9614727886333,
+   "label": "UPPER CHANGI MRT STATION (DT34)",
+   "source": "onemap"
+  },
+  "Woodlands North": {
+   "lat": 1.44829245259622,
+   "lng": 103.785692682441,
+   "label": "WOODLANDS NORTH MRT STATION (TE1)",
+   "source": "onemap"
+  },
+  "Woodlands South": {
+   "lat": 1.427396052814427,
+   "lng": 103.7932643222093,
+   "label": "WOODLANDS SOUTH MRT STATION (TE3)",
+   "source": "onemap"
+  },
+  "Springleaf": {
+   "lat": 1.397581061268243,
+   "lng": 103.8178569499463,
+   "label": "SPRINGLEAF MRT STATION (TE4)",
+   "source": "onemap"
+  },
+  "Lentor": {
+   "lat": 1.385506579721705,
+   "lng": 103.8357438096688,
+   "label": "LENTOR MRT STATION (TE5)",
+   "source": "onemap"
+  },
+  "Mayflower": {
+   "lat": 1.371463188310142,
+   "lng": 103.8365677669445,
+   "label": "MAYFLOWER MRT STATION (TE6)",
+   "source": "onemap"
+  },
+  "Bright Hill": {
+   "lat": 1.363283185451856,
+   "lng": 103.8328936199913,
+   "label": "BRIGHT HILL MRT STATION (TE7)",
+   "source": "onemap"
+  },
+  "Upper Thomson": {
+   "lat": 1.354416433654027,
+   "lng": 103.832898468504,
+   "label": "UPPER THOMSON MRT STATION (TE8)",
+   "source": "onemap"
+  },
+  "Napier": {
+   "lat": 1.306782233647866,
+   "lng": 103.8189567968147,
+   "label": "NAPIER MRT STATION (TE12)",
+   "source": "onemap"
+  },
+  "Orchard Boulevard": {
+   "lat": 1.302422248367229,
+   "lng": 103.8238685232488,
+   "label": "ORCHARD BOULEVARD MRT STATION (TE13)",
+   "source": "onemap"
+  },
+  "Great World": {
+   "lat": 1.293948161693831,
+   "lng": 103.8337208377308,
+   "label": "GREAT WORLD MRT STATION (TE15)",
+   "source": "onemap"
+  },
+  "Havelock": {
+   "lat": 1.288505239753116,
+   "lng": 103.8335858382257,
+   "label": "HAVELOCK MRT STATION (TE16)",
+   "source": "onemap"
+  },
+  "Maxwell": {
+   "lat": 1.280533298428769,
+   "lng": 103.8438836706331,
+   "label": "MAXWELL MRT STATION (TE18)",
+   "source": "onemap"
+  },
+  "Shenton Way": {
+   "lat": 1.277716828342504,
+   "lng": 103.8503675960666,
+   "label": "SHENTON WAY MRT STATION (TE19)",
+   "source": "onemap"
+  },
+  "Gardens by the Bay": {
+   "lat": 1.27848725876303,
+   "lng": 103.8674546644205,
+   "label": "GARDENS BY THE BAY MRT STATION (TE22)",
+   "source": "onemap"
+  },
+  "Tanjong Rhu": {
+   "lat": 1.297265079406466,
+   "lng": 103.8734532546209,
+   "label": "TANJONG RHU MRT STATION (TE23)",
+   "source": "onemap"
+  },
+  "Katong Park": {
+   "lat": 1.297831477789522,
+   "lng": 103.8861789499243,
+   "label": "KATONG PARK MRT STATION (TE24)",
+   "source": "onemap"
+  },
+  "Tanjong Katong": {
+   "lat": 1.299319257698992,
+   "lng": 103.8973687420782,
+   "label": "TANJONG KATONG MRT STATION (TE25)",
+   "source": "onemap"
+  },
+  "Marine Parade": {
+   "lat": 1.302611634833843,
+   "lng": 103.9049830868117,
+   "label": "MARINE PARADE MRT STATION (TE26)",
+   "source": "onemap"
+  },
+  "Marine Terrace": {
+   "lat": 1.306665103448141,
+   "lng": 103.9151067004998,
+   "label": "MARINE TERRACE MRT STATION (TE27)",
+   "source": "onemap"
+  },
+  "Siglap": {
+   "lat": 1.310008694322892,
+   "lng": 103.9300258267072,
+   "label": "SIGLAP MRT STATION (TE28)",
+   "source": "onemap"
+  },
+  "Bayshore": {
+   "lat": 1.313122482912643,
+   "lng": 103.9423097767668,
+   "label": "BAYSHORE MRT STATION (TE29)",
+   "source": "onemap"
+  }
+ }
+}
